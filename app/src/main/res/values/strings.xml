@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PruebaOTF</string>
+    <string name="app_paquete">mx.montes.pruebaotf.MIS_PREFERENCIAS</string>
+    <string name="mi_titulo">Luis Montes - Prueba OTF</string>
+    <string name="titulo_serial">Ingresa el numero de serie:</string>
+    <string name="hint_serial">aqui la serie</string>
+    <string name="hint_hostname">aqui el nombre del host</string>
+    <string name="titulo_hostname">Ingresa el nombre del equipo:</string>
+    <string name="titulo_btn_activar">Activar licencia</string>
+    <string name="titulo_dialogo">Activando licencia. Espere...</string>
+    <string name="titulo_dialogo_productos">Recuperando productos. Espere...</string>
+
+    <string name="device_id_key">device_id</string>
+    <string name="device_id">3-141592654</string>
+    <string name="device_information_key">device_information</string>
+    <string name="device_information">Prueba de OTF con el valor de PI :)</string>
+
+
+    <string name="license_api_key">api-key</string>
+    <string name="license_license_id_key">license_id</string>
+    <string name="license_terminal_id_key">terminal_id</string>
+
+    <string name="texto_titulo_dialogo">OTF Prueba</string>
+    <string name="texto_dialogo_ok">Aceptar</string>
+    <string name="texto_serie_vacia">El numero de serie no puede estar vacio</string>
+    <string name="texto_hostname_vacio">El nombre del host no puede estar vacio</string>
+    <string name="respuesta_exito">success</string>
+    <string name="respuesta_error">Hubo un error al solicitar la activacion de licencia.Intente de nuevo</string>
+    <string name="error_conexion">Hubo un error al conectarse al servidor de activacion</string>
+    <string name="licencia_dummy_primos">Dummy Licencia:3_141592654</string>
+
+    <string name="texto_btn_mostrar_productos">Mostrar productos</string>
+    <string name="texto_btn_quitar_licencia">Quitar licencia</string>
+    <string name="texto_confirmar_quitar_licencia">¿Confirma que desea remover licencia?</string>
+    <string name="texto_respuesta_SI">SI</string>
+    <string name="texto_respuesta_NO">NO</string>
+    <string name="producto_nombre">Nombre del producto</string>
+    <string name="producto_descripcion">Descripcion del producto</string>
+    <string name="sin_descripcion">Sin descripcion</string>
+    <string name="titulo_listado">Listado de Productos lang_id:1</string>
+
+</resources>
